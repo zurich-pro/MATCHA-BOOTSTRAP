@@ -1,0 +1,46 @@
+body{
+    font-family: "IBM Plex Sans";
+    text-align: center;
+    background-image: url("https://image.freepik.com/vector-gratis/fondo-degradado-tonos-verdes_23-2148382072.jpg");
+    background-size: cover;
+    font-weight: 400;
+    font-size: 18px;
+    color: #4a4a4a;
+    
+}
+
+.home-intro-title{
+    font-family: "vesterbroextrabold";
+    font-weight: 700!important;
+    font-size: 30px;
+    text-align: left;
+    color: #025157;
+    max-width: 560px;
+    align-items: center;
+}
+
+.product-card-heading {
+    font-family: 'vesterbroextrabold';
+    font-weight: 400!important;
+    color: #025157;
+    letter-spacing: -1px;
+    margin-left: 0;
+}
+
+.logos__cont__inn .logos__img{
+    padding: 0 50px;
+}
+
+      /**************************************************************************/
+  /**************************************************************************/
+  /**************************************************************************/
+  /****************************** ESTANDARIZACION ********************************************/
+
+  @media (max-width: 575px) {
+    .logos__cont__inn .logos__img{
+        padding: 0 50px;
+    }
+
+    
+}
+
